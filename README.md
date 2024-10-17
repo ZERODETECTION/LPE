@@ -19,3 +19,5 @@ https://github.com/ElliotAlderson51/Bypass-UAC/tree/main/Manual
 https://github.com/blue0x1/uac-bypass-oneliners
 
 https://packetstormsecurity.com/files/149885/Microsoft-Windows-10-UAC-Bypass-By-computerDefault.html
+
+https://github.com/SecuProject/DLLHijackingScanner
