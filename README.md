@@ -21,3 +21,5 @@ https://github.com/blue0x1/uac-bypass-oneliners
 https://packetstormsecurity.com/files/149885/Microsoft-Windows-10-UAC-Bypass-By-computerDefault.html
 
 https://github.com/SecuProject/DLLHijackingScanner
+
+https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802/tree/master
