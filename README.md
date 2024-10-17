@@ -13,3 +13,5 @@ https://any.run/cybersecurity-blog/windows11-uac-bypass/
 https://lolbas-project.github.io/#/uac
 
 https://www.pwndefend.com/2021/08/23/windows-11-privilege-escalation-via-uac-bypass-gui-based/
+
+https://github.com/ElliotAlderson51/Bypass-UAC/tree/main/Manual
