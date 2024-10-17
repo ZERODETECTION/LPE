@@ -23,3 +23,5 @@ https://packetstormsecurity.com/files/149885/Microsoft-Windows-10-UAC-Bypass-By-
 https://github.com/SecuProject/DLLHijackingScanner
 
 https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802/tree/master
+
+https://github.com/hfiref0x/UACME
