@@ -29,3 +29,5 @@ https://github.com/hfiref0x/UACME
 https://www.bleepingcomputer.com/news/security/bypassing-windows-10-uac-with-mock-folders-and-dll-hijacking/
 
 https://github.com/p4p1/havoc-privkit?tab=readme-ov-file
+
+https://github.com/A-poc/RedTeam-Tools
