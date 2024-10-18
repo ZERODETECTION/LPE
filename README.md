@@ -25,3 +25,5 @@ https://github.com/SecuProject/DLLHijackingScanner
 https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802/tree/master
 
 https://github.com/hfiref0x/UACME
+
+https://www.bleepingcomputer.com/news/security/bypassing-windows-10-uac-with-mock-folders-and-dll-hijacking/
