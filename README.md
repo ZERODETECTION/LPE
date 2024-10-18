@@ -31,3 +31,5 @@ https://www.bleepingcomputer.com/news/security/bypassing-windows-10-uac-with-moc
 https://github.com/p4p1/havoc-privkit?tab=readme-ov-file
 
 https://github.com/A-poc/RedTeam-Tools
+
+https://github.com/Accenture/Spartacus
