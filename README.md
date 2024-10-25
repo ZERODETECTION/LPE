@@ -35,3 +35,5 @@ https://github.com/A-poc/RedTeam-Tools
 https://github.com/Accenture/Spartacus
 
 https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-1-733d423fc67b
+
+https://github.com/hackerhouse-opensource/Stinger/blob/main/README.md
