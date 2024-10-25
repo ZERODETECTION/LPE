@@ -39,3 +39,5 @@ https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-202
 https://github.com/hackerhouse-opensource/Stinger/blob/main/README.md
 
 https://github.com/Dor00tkit/CVE-2024-30090
+
+https://securityintelligence.com/x-force/email-campaigns-leverage-updated-dbatloader-deliver-rats-stealers/
