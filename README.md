@@ -43,3 +43,5 @@ https://github.com/Dor00tkit/CVE-2024-30090
 https://securityintelligence.com/x-force/email-campaigns-leverage-updated-dbatloader-deliver-rats-stealers/
 
 https://redfoxsec.com/blog/windows-uac-bypass/
+
+https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses
