@@ -45,3 +45,5 @@ https://securityintelligence.com/x-force/email-campaigns-leverage-updated-dbatlo
 https://redfoxsec.com/blog/windows-uac-bypass/
 
 https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses
+
+https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses
