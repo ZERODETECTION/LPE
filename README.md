@@ -41,3 +41,5 @@ https://github.com/hackerhouse-opensource/Stinger/blob/main/README.md
 https://github.com/Dor00tkit/CVE-2024-30090
 
 https://securityintelligence.com/x-force/email-campaigns-leverage-updated-dbatloader-deliver-rats-stealers/
+
+https://redfoxsec.com/blog/windows-uac-bypass/
