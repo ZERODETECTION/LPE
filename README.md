@@ -47,3 +47,5 @@ https://redfoxsec.com/blog/windows-uac-bypass/
 https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses
 
 https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses
+
+https://medium.com/@markmotig/three-more-ways-to-run-command-prompt-with-system-rights-cbb2d08840
