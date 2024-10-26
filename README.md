@@ -51,3 +51,5 @@ https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-u
 https://medium.com/@markmotig/three-more-ways-to-run-command-prompt-with-system-rights-cbb2d08840
 
 https://bohops.com/2018/02/10/vshadow-abusing-the-volume-shadow-service-for-evasion-persistence-and-active-directory-database-extraction/
+
+https://rabakuku.gitbook.io/oscp/windows/windows-priv-exc
